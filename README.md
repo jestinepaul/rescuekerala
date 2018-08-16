@@ -30,7 +30,7 @@ Setting up development environment
 create database and user in postgres for kerala rescue and give privileges
 
 ```
-psql user=postgres
+sudo -u postgres psql
 Password:
 psql (10.4 (Ubuntu 10.4-0ubuntu0.18.04))
 Type "help" for help.
